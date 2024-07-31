@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sallsabilanura
 - 👀 I’m interested in web development as a backend developer.
-- 🌱 I’m currently learning PHP framework laravel and codeignigter.
+- 🌱 I’m currently learning PHP framework laravel and codeigniter.
 - 💞️ I’m looking to collaborate on open source projects and application development.
 - 📫 How to reach me salsabilanura0909@gmail.com
 - 😄 Pronouns: she/her
